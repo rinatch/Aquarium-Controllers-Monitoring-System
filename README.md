@@ -1,5 +1,5 @@
 # Aquarium-Controllers-Monitoring-System
-We've build Aquarium Controllers &amp; Monitoring System using M5Stack sensors + 3D printing 
+We've built Aquarium Controllers &amp; Monitoring System using M5Stack sensors + 3D printing 
 
 
 Sensors: 
