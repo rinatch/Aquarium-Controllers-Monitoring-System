@@ -9,4 +9,7 @@ Sensors:
   Water pump.
   
  3D printing:
- By 3D printing We've made a product that has in it all the sensors above. You can put it on your fish aquariuim and it will feed your fishes every X hours (you decide) + you'll get a notification if the temperature is high/ low or if the color of the water is green (dirty). Plus, it will pump water when needed.
+ By 3D printing We've made a product that has in it all the sensors that is written above. 
+ 
+ How to use it?
+ You can put our product on your fish aquariuim and it will feed your fishes every X hours (you decide) + you'll get a notification if the temperature is high/ low or if the color of the water is green (dirty). Plus, it will pump water when needed.
